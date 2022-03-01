@@ -32,6 +32,10 @@
    "TG_START_MESG": {
       "description": "Set /start Message",
       "value": ""
+  },
+  "Bot Father ID":{
+   "description":"Id",
+   "value": ""
   }
  }
 }
